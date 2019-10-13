@@ -15,7 +15,7 @@ Node.js, ReactJS, React Native, MongoDB e Expo
 
 ## Mobile
 
-
+![Teste](https://user-images.githubusercontent.com/39282775/66722394-57ecb300-ede3-11e9-8071-ae537c62d702.png)
 
 ## SocketIO
 
